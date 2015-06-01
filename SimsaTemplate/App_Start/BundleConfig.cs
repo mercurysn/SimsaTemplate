@@ -27,8 +27,8 @@ namespace SimsaTemplate
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/custom-styles.css",
-                      "~/Content/font-awesome.css",
-                      "~/Content/site.css"));
+                      "~/Content/site.css",
+                      "~/Content/font-awesome.css"));
         }
     }
 }
